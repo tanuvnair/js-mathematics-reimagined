@@ -1,2 +1,2 @@
-# js-trigonometry
-Learning trigonometry in JavaScript!
+# js-mathematics-reimagined
+Learning mathematics in JavaScript!
