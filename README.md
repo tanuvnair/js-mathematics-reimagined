@@ -2,7 +2,7 @@
 Learning mathematics in JavaScript!
 
 ## Trigonometry
-![trigonometry-ss-1](![trigonometry-ss-1](https://github.com/tanuvnair/js-mathematics-reimagined/assets/75950759/fcdb65be-9f44-4e99-8491-d8a22d395808))
+![trigonometry-ss](https://github.com/tanuvnair/js-mathematics-reimagined/assets/75950759/a6057ab3-31af-4e28-af8e-b636d2c213f6)
 
 ## Pythagorean Theorem
-![pythagorean-theorem-ss-1](![pythagorean-theorem-ss-1](https://github.com/tanuvnair/js-mathematics-reimagined/assets/75950759/fd383fcf-1e88-4724-bd16-b486ccab6073))
+![pythagorean-theorem-ss](https://github.com/tanuvnair/js-mathematics-reimagined/assets/75950759/1f6abff5-230f-472c-b2ef-07e4f8f3cb63)
